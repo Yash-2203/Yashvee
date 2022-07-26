@@ -1,4 +1,4 @@
-Branch,City,Customer type,Gender,Payment,Quantity,Rating,Age,Salary
+branch,city,customer type,gender,payment,quantity,rating,age,salary
 A,Yangon,Member,Female,Ewallet,7,9,18,20000
 C,Naypyitaw,Normal,Female,Cash,5,10,19,22000
 A,Yangon,Normal,Male,CreditCard,7,7,20,24000
